@@ -1,4 +1,4 @@
-# 🔍 TF-IDF Document Ranking System (VSM + Cosine Similarity)
+#  TF-IDF Document Ranking System (VSM + Cosine Similarity)
 
 This Python application ranks a collection of `.txt` documents based on their **relevance to a query** using the **Vector Space Model (VSM)** with **TF-IDF weighting** and **cosine similarity**.  
 It also includes **query expansion** using **WordNet**, **lemmatization**, and configurable preprocessing options.
