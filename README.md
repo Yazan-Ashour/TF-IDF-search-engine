@@ -155,5 +155,5 @@ You can use this project for:
 
 ##  Author
 **Yazan Ashour**  
- *Information Retrieval — Assignment 1*   
+ *Information Retrieval — Assignment 2*   
 
