@@ -154,7 +154,6 @@ You can use this project for:
 ---
 
 ##  Author
-
-**Developed by:** Yazan Ashour 
- *Information Retrieval — Assignment 1*  
+**Yazan Ashour**  
+ *Information Retrieval — Assignment 1*   
 
