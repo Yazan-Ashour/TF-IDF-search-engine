@@ -156,6 +156,5 @@ You can use this project for:
 ##  Author
 
 **Developed by:** Yazan Ashour 
-**Language:** Python 3  
-**Libraries:** `scikit-learn`, `nltk`, `numpy`, `colorama`
+ *Information Retrieval — Assignment 1*  
 
