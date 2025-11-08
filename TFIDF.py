@@ -86,7 +86,7 @@ def run_search(folder_path, query):
     vectorizer = CountVectorizer(
         lowercase=True,
         stop_words='english',
-        min_df=1,
+        min_df=3,
         max_features=5000,
         ngram_range=(1, 2)
     )
